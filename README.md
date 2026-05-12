@@ -2,7 +2,7 @@
 
 A full-stack blockchain analytics web application that analyzes Ethereum transaction data to detect suspicious behavior patterns using advanced heuristic algorithms.
 
-![ChainTrace Dashboard](https://via.placeholder.com/800x400/0a0a0f/00d4ff?text=ChainTrace+Dashboard)
+
 
 ## 🚀 Features
 
@@ -220,9 +220,6 @@ Try these well-known Ethereum addresses:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
